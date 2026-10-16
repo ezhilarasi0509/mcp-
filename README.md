@@ -1,9 +1,5 @@
 # mcp-
-# Complete MCP Notes for Beginners — 2026 Edition
 
-Based on your uploaded video script and summary • Explained from zero • With simple real-life examples • No pictures
-
-These notes cover the complete video, including the smaller technical points that are easy to miss. I'll explain each concept in simple language first, then show you the technical terms you should know as an aspiring AI Engineer.
 
 # Part 1: What is MCP?
 
