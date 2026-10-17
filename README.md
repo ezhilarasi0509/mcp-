@@ -78,7 +78,7 @@ Important: MCP does not remove the need for integration code. It standardizes th
 
 ## 3. Why did MCP become popular?
 
-The video explains that the rise of Agentic AI accelerated MCP adoption.
+ the rise of Agentic AI accelerated MCP adoption.
 
 A normal AI chatbot might answer:
 
@@ -92,7 +92,7 @@ Agents need access to real applications to complete real work.
 
 As companies such as OpenAI and Google adopted MCP, interest increased.
 
-The uploaded video's cited September 2026 figures include:
+
 
 - A reported 98× increase in MCP tool calls by ChatGPT users between January and August 2026.
 - Railway reporting more than 500% growth in daily MCP users from July to August 2026.
@@ -248,7 +248,7 @@ For example, Cursor connects to a remotely hosted GitHub MCP server.
 | Credentials      | May be held locally        | May be managed remotely     |
 | Example          | Local file tools           | Hosted SaaS integration     |
 
-One subtle point from the video: A local MCP server does not necessarily mean everything happens offline.
+ A local MCP server does not necessarily mean everything happens offline.
 
 A local Gmail MCP server may still call Gmail's API over the internet.
 
@@ -625,7 +625,7 @@ Example: You can read customer support tickets but cannot delete customer record
 
 The July 2026 specification tightened authorization rules.
 
-The video highlights stronger verification of which authorization server issued a credential and closer binding of credentials to the correct issuer.
+stronger verification of which authorization server issued a credential and closer binding of credentials to the correct issuer.
 
 Why does this matter?
 
@@ -637,7 +637,7 @@ Similarly, MCP clients and authorization systems must handle credentials careful
 
 ### Client metadata documents
 
-The video also explains a move away from relying on dynamic client registration with each authorization server.
+ a move away from relying on dynamic client registration with each authorization server.
 
 Instead, client metadata documents provide a more predictable way for authorization systems to identify clients.
 
